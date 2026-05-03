@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "PerzaanLive",
+    "username": "Pokkie",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "GemsMCC.aternos.me",
-    "port": 44766,
+    "ip": "SIMSMPZ.aternos.me",
+    "port": 37740,
     "version": "1.21.1"
   },
   "position": {
